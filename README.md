@@ -3,7 +3,7 @@
 List of ideas (add to this as they pop up):
 
 ~ Portfolio Intelligence Platform
-  - Have user breifly describe their investments/stategy/thesis/long-term goals
+  - Have user breifly describe their investments/strategy/thesis/long-term goals
   - Provide AI driven actionable insights or ways to diversify
   - Scan online forums (Reddit, X, news, macro events) to make in the moment-suggestions
   - Risk analysis
