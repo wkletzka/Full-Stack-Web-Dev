@@ -1,6 +1,7 @@
 # Full-Stack-Web-Dev
 
 List of ideas (add to this as they pop up):
+
 ~ Portfolio Intelligence Platform
   - Have user breifly describe their investments/stategy/thesis/long-term goals
   - Provide AI driven actionable insights or ways to diversify
@@ -9,4 +10,5 @@ List of ideas (add to this as they pop up):
   - Bearish/bullish predictions
   - Compare with well known investors' porfolios
   - Have a calculator that says '$X invested in TICKER in YYYY would be worth $Z today'
+
 ~
